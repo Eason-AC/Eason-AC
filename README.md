@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Eason-AC
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning C++ (since 2018.3)
     - Awards:
         - NOIP2018 Junior: 2nd prize (120 pts)
@@ -10,5 +9,9 @@
         - NOIP2020: 55 pts
         - CSP2021 Senior: 1st prize (114 pts)
         - NOIP2021: 2nd prize (102 pts)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- My blog: https://www.cnblogs.com/Eason-AC
+- Contact Me!
+    - QQ: 1145238875 / 3268906423
+    - Email: 1145238875@qq.com
+    - Codeforces: Eason_AC / Time_To_Night_Sky / Cereris
+    - AtCoder: Eason_AC / TimeToNightSky
